@@ -1,0 +1,7 @@
+.cache
+*.mp3
+*.wav
+*.m4a
+*.srt
+*.bak
+__pycache__

@@ -1,0 +1,5 @@
+faster-whisper>=1.1.0
+pyannote.audio>=4.0
+torch>=2.8
+torchaudio>=2.8
+torchcodec>=0.7
